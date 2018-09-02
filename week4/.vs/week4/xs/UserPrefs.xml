@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{09BD4418-5926-42D4-92ED-2BFF700103D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="week4/second.cs">
+    <Files>
+      <File FileName="week4/second.cs" Line="13" Column="6" />
+      <File FileName="week4/App.xaml.cs" Line="14" Column="48" />
+      <File FileName="week4/TemperatureConverter.xaml" Line="36" Column="1" />
+      <File FileName="week4/TemperatureConverter.xaml.cs" Line="18" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.week4 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.week4.Android PreferredExecutionTarget="Android.Nexus_5X_API_26" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.week4.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3DA570F1-E8BC-4014-9F5C-3E3728C650B1" />
+</Properties>
